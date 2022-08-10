@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Start_Here.py
